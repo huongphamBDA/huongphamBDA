@@ -16,7 +16,7 @@ Experienced in data analytics. Strong statistics and machine learning background
 
 #### Skills: Python, SQL, Grafana, GitHub Action
 
-### Data & Analytics Intern - LPL Financial, San Diego, CA. (June 2021 - August 2021)
+### Data & Analytics Intern - LPL Financial, San Diego, CA. (Summer 2021)
 * Best Time to Call Advisors: Used Python, Jupyter Notebook, and Tableau to visualize and find out the best time to call financial advisors.
 * Documented a curated dataset by parsing original SQL codes, explaining data type, source data, source tables, source fields, and how the fields are calculated; Used PlantUML to create diagrams to visualize the relationship among tables 
 
