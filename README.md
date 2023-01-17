@@ -34,5 +34,5 @@ Experienced in data analytics. Strong statistics and machine learning background
 * GPA 3.9
 
 ### Master of Science in Economics
-* Portland State
+* Portland State University, Portland, OR.
 * GPA 3.6
