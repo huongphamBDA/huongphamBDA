@@ -23,8 +23,14 @@ Experienced in data analytics. Strong statistics and machine learning background
 #### Skills: Python, SQL, Jupiter Notebook, Tableau, [PlanUML](https://plantuml.com/)
 ## Research Projects
 * Big Data Analytics Master's Thesis: [Examining the local-scale relationship between human mobility and COVID-19: A case study of San Diego, CA, 2022](https://github.com/huongphamBDA/mobility_covid19)
+#### Python Libraries: Pandas, Geopandas, NumPy, Tslearn, scikit-learn, SciPy, Plotly, Matplotlib, dataframe_image, PYL, and Glob
+#### IDE: Pycharm
 * Machine Learning Engineering: [Predict Whether Baseball Home Teams Wins, 2021](https://github.com/huongphamBDA/machinelearning)
+#### Python Libraries: Pandas, Scikit-learn, NumPy, sqlalchemy, Plotly, Seaborn, statmodels, and SciPy
+#### Database and Client: MariaDB and Dbeaver
+#### IDE: Pycharm
 * Enterprise Database Management: [Database modeling to support a Group Adult Foster Care business operation, 2021](https://github.com/huongphamBDA/database_management)
+#### Database and Client: SQL Server and Dbeaver
 * Natural Language Processing: [Sentiment Analysis on California COVID-19 related tweets with Python, 2020](https://github.com/huongphamBDA/sentiment_COVID19_tweets_pham)
 * Visual Analytics: [Analyze death rate due to heart disease in San Diego, using Tableu, 2020](https://public.tableau.com/profile/huong.pham7994#!/vizhome/OverallHeartDisease_HuongPham/OverallHeartDisease2017)
 
